@@ -15,6 +15,7 @@ h1{
     background-color: white;
     text-align: center;
     font-size: 330%;
+    word-wrap: break-word;
 }
 .queen{
     text-align: center;
